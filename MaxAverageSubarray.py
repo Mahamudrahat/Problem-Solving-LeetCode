@@ -12,4 +12,4 @@ class Solution:
                 sum-=nums[l]
                 l+=1
             
-        return max_av
+        return max_avg
